@@ -3,11 +3,11 @@
     "",
     "\\Cliniquelib-BE",
     "\\Cliniquelib-BE\\Assets",
-    "\\Cliniquelib-BE\\Data",
+    "\\Cliniquelib-BE\\Models",
     "\\Cliniquelib-BE\\Properties",
-    "\\Cliniquelib-BE\\Services",
+    "\\Cliniquelib-BE\\Scripts",
     "\\Cliniquelib-BE\\Utils"
   ],
-  "SelectedNode": "\\project_structure.txt",
+  "SelectedNode": "\\Cliniquelib-BE\\Models\\Patient.cs",
   "PreviewInSolutionExplorer": false
 }

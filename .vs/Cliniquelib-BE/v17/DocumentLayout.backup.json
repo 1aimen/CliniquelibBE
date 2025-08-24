@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|c:\\users\\sh0ttky\\desktop\\cliniquelib-be\\cliniquelib-be\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|solutionrelative:cliniquelib-be\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|c:\\users\\sh0ttky\\desktop\\cliniquelib-be\\cliniquelib-be\\interfaces\\iusersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|solutionrelative:cliniquelib-be\\interfaces\\iusersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -235,10 +239,6 @@
       "RelativeMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|solutionrelative:cliniquelib-be\\controllers\\permissionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|c:\\users\\sh0ttky\\desktop\\cliniquelib-be\\cliniquelib-be\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|solutionrelative:cliniquelib-be\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|c:\\users\\sh0ttky\\desktop\\cliniquelib-be\\cliniquelib-be\\controllers\\billingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|solutionrelative:cliniquelib-be\\controllers\\billingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -386,11 +386,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "IUsersService.cs",
               "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Interfaces\\IUsersService.cs",
               "RelativeDocumentMoniker": "Cliniquelib-BE\\Interfaces\\IUsersService.cs",
@@ -403,7 +403,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ITeleconsultationService.cs",
               "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Interfaces\\ITeleconsultationService.cs",
               "RelativeDocumentMoniker": "Cliniquelib-BE\\Interfaces\\ITeleconsultationService.cs",
@@ -416,7 +416,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ISettingsService.cs",
               "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Interfaces\\ISettingsService.cs",
               "RelativeDocumentMoniker": "Cliniquelib-BE\\Interfaces\\ISettingsService.cs",
@@ -429,7 +429,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "IRolesService.cs",
               "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Interfaces\\IRolesService.cs",
               "RelativeDocumentMoniker": "Cliniquelib-BE\\Interfaces\\IRolesService.cs",
@@ -442,7 +442,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "IReportsService.cs",
               "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Interfaces\\IReportsService.cs",
               "RelativeDocumentMoniker": "Cliniquelib-BE\\Interfaces\\IReportsService.cs",
@@ -455,7 +455,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "IPublicService.cs",
               "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Interfaces\\IPublicService.cs",
               "RelativeDocumentMoniker": "Cliniquelib-BE\\Interfaces\\IPublicService.cs",
@@ -468,7 +468,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "IProfileService.cs",
               "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Interfaces\\IProfileService.cs",
               "RelativeDocumentMoniker": "Cliniquelib-BE\\Interfaces\\IProfileService.cs",
@@ -481,7 +481,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "IPermissionsService.cs",
               "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Interfaces\\IPermissionsService.cs",
               "RelativeDocumentMoniker": "Cliniquelib-BE\\Interfaces\\IPermissionsService.cs",
@@ -494,7 +494,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "IPatientsService.cs",
               "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Interfaces\\IPatientsService.cs",
               "RelativeDocumentMoniker": "Cliniquelib-BE\\Interfaces\\IPatientsService.cs",
@@ -507,7 +507,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Cliniquelib-BE\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Cliniquelib-BE\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T16:45:27.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "IOrganizationService.cs",
               "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Interfaces\\IOrganizationService.cs",
               "RelativeDocumentMoniker": "Cliniquelib-BE\\Interfaces\\IOrganizationService.cs",
@@ -520,7 +533,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "INotificationService.cs",
               "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Interfaces\\INotificationService.cs",
               "RelativeDocumentMoniker": "Cliniquelib-BE\\Interfaces\\INotificationService.cs",
@@ -533,7 +546,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "IMfaService.cs",
               "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Interfaces\\IMfaService.cs",
               "RelativeDocumentMoniker": "Cliniquelib-BE\\Interfaces\\IMfaService.cs",
@@ -546,7 +559,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "ILogsService.cs",
               "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Interfaces\\ILogsService.cs",
               "RelativeDocumentMoniker": "Cliniquelib-BE\\Interfaces\\ILogsService.cs",
@@ -559,7 +572,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "IInsuranceService.cs",
               "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Interfaces\\IInsuranceService.cs",
               "RelativeDocumentMoniker": "Cliniquelib-BE\\Interfaces\\IInsuranceService.cs",
@@ -572,7 +585,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "IDocumentService.cs",
               "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Interfaces\\IDocumentService.cs",
               "RelativeDocumentMoniker": "Cliniquelib-BE\\Interfaces\\IDocumentService.cs",
@@ -585,7 +598,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "IConsentService.cs",
               "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Interfaces\\IConsentService.cs",
               "RelativeDocumentMoniker": "Cliniquelib-BE\\Interfaces\\IConsentService.cs",
@@ -598,7 +611,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "IClinicsService.cs",
               "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Interfaces\\IClinicsService.cs",
               "RelativeDocumentMoniker": "Cliniquelib-BE\\Interfaces\\IClinicsService.cs",
@@ -611,7 +624,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "IBillingService.cs",
               "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Interfaces\\IBillingService.cs",
               "RelativeDocumentMoniker": "Cliniquelib-BE\\Interfaces\\IBillingService.cs",
@@ -624,7 +637,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "IAuditService.cs",
               "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Interfaces\\IAuditService.cs",
               "RelativeDocumentMoniker": "Cliniquelib-BE\\Interfaces\\IAuditService.cs",
@@ -637,7 +650,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "IAppointmentService.cs",
               "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Interfaces\\IAppointmentService.cs",
               "RelativeDocumentMoniker": "Cliniquelib-BE\\Interfaces\\IAppointmentService.cs",
@@ -650,7 +663,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "IAdminService.cs",
               "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Interfaces\\IAdminService.cs",
               "RelativeDocumentMoniker": "Cliniquelib-BE\\Interfaces\\IAdminService.cs",
@@ -663,7 +676,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "Sex.cs",
               "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Models\\Enums\\Sex.cs",
               "RelativeDocumentMoniker": "Cliniquelib-BE\\Models\\Enums\\Sex.cs",
@@ -676,7 +689,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "TeleconsultationStatus.cs",
               "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Models\\Enums\\TeleconsultationStatus.cs",
               "RelativeDocumentMoniker": "Cliniquelib-BE\\Models\\Enums\\TeleconsultationStatus.cs",
@@ -689,7 +702,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "UserStatus.cs",
               "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Models\\Enums\\UserStatus.cs",
               "RelativeDocumentMoniker": "Cliniquelib-BE\\Models\\Enums\\UserStatus.cs",
@@ -702,7 +715,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "Clinic.cs",
               "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Models\\Clinic.cs",
               "RelativeDocumentMoniker": "Cliniquelib-BE\\Models\\Clinic.cs",
@@ -715,7 +728,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "IAuthService.cs",
               "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Interfaces\\IAuthService.cs",
               "RelativeDocumentMoniker": "Cliniquelib-BE\\Interfaces\\IAuthService.cs",
@@ -728,7 +741,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "FileType.cs",
               "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Models\\Enums\\FileType.cs",
               "RelativeDocumentMoniker": "Cliniquelib-BE\\Models\\Enums\\FileType.cs",
@@ -741,7 +754,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "Organization.cs",
               "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Models\\Organization.cs",
               "RelativeDocumentMoniker": "Cliniquelib-BE\\Models\\Organization.cs",
@@ -754,7 +767,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "AppointmentStatus.cs",
               "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Models\\Enums\\AppointmentStatus.cs",
               "RelativeDocumentMoniker": "Cliniquelib-BE\\Models\\Enums\\AppointmentStatus.cs",
@@ -767,7 +780,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "RoleEnum.cs",
               "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Models\\Enums\\RoleEnum.cs",
               "RelativeDocumentMoniker": "Cliniquelib-BE\\Models\\Enums\\RoleEnum.cs",
@@ -780,7 +793,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "PaymentStatus.cs",
               "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Models\\Enums\\PaymentStatus.cs",
               "RelativeDocumentMoniker": "Cliniquelib-BE\\Models\\Enums\\PaymentStatus.cs",
@@ -793,7 +806,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "PaymentMethod.cs",
               "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Models\\Enums\\PaymentMethod.cs",
               "RelativeDocumentMoniker": "Cliniquelib-BE\\Models\\Enums\\PaymentMethod.cs",
@@ -806,7 +819,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "NotificationStatus.cs",
               "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Models\\Enums\\NotificationStatus.cs",
               "RelativeDocumentMoniker": "Cliniquelib-BE\\Models\\Enums\\NotificationStatus.cs",
@@ -819,7 +832,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "AppErrors.cs",
               "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Models\\Enums\\Events\\AppErrors.cs",
               "RelativeDocumentMoniker": "Cliniquelib-BE\\Models\\Enums\\Events\\AppErrors.cs",
@@ -832,7 +845,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "AppEvents.cs",
               "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Models\\Enums\\Events\\AppEvents.cs",
               "RelativeDocumentMoniker": "Cliniquelib-BE\\Models\\Enums\\Events\\AppEvents.cs",
@@ -845,7 +858,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "SysEvents.cs",
               "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Models\\Enums\\Events\\SysEvents.cs",
               "RelativeDocumentMoniker": "Cliniquelib-BE\\Models\\Enums\\Events\\SysEvents.cs",
@@ -858,7 +871,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "NotifcationChannel.cs",
               "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Models\\Enums\\NotifcationChannel.cs",
               "RelativeDocumentMoniker": "Cliniquelib-BE\\Models\\Enums\\NotifcationChannel.cs",
@@ -871,7 +884,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "InvoiceStatus.cs",
               "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Models\\Enums\\InvoiceStatus.cs",
               "RelativeDocumentMoniker": "Cliniquelib-BE\\Models\\Enums\\InvoiceStatus.cs",
@@ -884,7 +897,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": "DocumentType.cs",
               "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Models\\Enums\\DocumentType.cs",
               "RelativeDocumentMoniker": "Cliniquelib-BE\\Models\\Enums\\DocumentType.cs",
@@ -897,7 +910,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 40,
               "Title": "AppointmentType.cs",
               "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Models\\Enums\\AppointmentType.cs",
               "RelativeDocumentMoniker": "Cliniquelib-BE\\Models\\Enums\\AppointmentType.cs",
@@ -910,7 +923,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 41,
               "Title": "EnumHelper.cs",
               "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Models\\Enums\\EnumHelper.cs",
               "RelativeDocumentMoniker": "Cliniquelib-BE\\Models\\Enums\\EnumHelper.cs",
@@ -923,7 +936,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 42,
               "Title": "LogMiddleware.cs",
               "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Middleware\\LogMiddleware.cs",
               "RelativeDocumentMoniker": "Cliniquelib-BE\\Middleware\\LogMiddleware.cs",
@@ -936,7 +949,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 43,
               "Title": "JwtMiddleware.cs",
               "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Middleware\\JwtMiddleware.cs",
               "RelativeDocumentMoniker": "Cliniquelib-BE\\Middleware\\JwtMiddleware.cs",
@@ -949,7 +962,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 44,
               "Title": "ErrorHandlerMiddleware.cs",
               "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Middleware\\ErrorHandlerMiddleware.cs",
               "RelativeDocumentMoniker": "Cliniquelib-BE\\Middleware\\ErrorHandlerMiddleware.cs",
@@ -962,7 +975,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 45,
               "Title": "RefreshToken.cs",
               "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Data\\Mappings\\RefreshToken.cs",
               "RelativeDocumentMoniker": "Cliniquelib-BE\\Data\\Mappings\\RefreshToken.cs",
@@ -975,7 +988,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 46,
               "Title": "AuthService.cs",
               "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Services\\AuthService.cs",
               "RelativeDocumentMoniker": "Cliniquelib-BE\\Services\\AuthService.cs",
@@ -988,7 +1001,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 47,
               "Title": "LogsController.cs",
               "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Controllers\\LogsController.cs",
               "RelativeDocumentMoniker": "Cliniquelib-BE\\Controllers\\LogsController.cs",
@@ -1001,7 +1014,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 48,
               "Title": "ReportsController.cs",
               "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Controllers\\ReportsController.cs",
               "RelativeDocumentMoniker": "Cliniquelib-BE\\Controllers\\ReportsController.cs",
@@ -1014,7 +1027,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 49,
               "Title": "RolesController.cs",
               "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Controllers\\RolesController.cs",
               "RelativeDocumentMoniker": "Cliniquelib-BE\\Controllers\\RolesController.cs",
@@ -1027,7 +1040,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 50,
               "Title": "SettingsController.cs",
               "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Controllers\\SettingsController.cs",
               "RelativeDocumentMoniker": "Cliniquelib-BE\\Controllers\\SettingsController.cs",
@@ -1040,7 +1053,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 51,
               "Title": "TeleconsultationController.cs",
               "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Controllers\\TeleconsultationController.cs",
               "RelativeDocumentMoniker": "Cliniquelib-BE\\Controllers\\TeleconsultationController.cs",
@@ -1053,7 +1066,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 52,
               "Title": "UsersController.cs",
               "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "Cliniquelib-BE\\Controllers\\UsersController.cs",
@@ -1066,7 +1079,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 53,
               "Title": "ProfileController.cs",
               "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Controllers\\ProfileController.cs",
               "RelativeDocumentMoniker": "Cliniquelib-BE\\Controllers\\ProfileController.cs",
@@ -1079,7 +1092,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 54,
               "Title": "PublicController.cs",
               "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Controllers\\PublicController.cs",
               "RelativeDocumentMoniker": "Cliniquelib-BE\\Controllers\\PublicController.cs",
@@ -1092,7 +1105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 55,
               "Title": "InsuranceController.cs",
               "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Controllers\\InsuranceController.cs",
               "RelativeDocumentMoniker": "Cliniquelib-BE\\Controllers\\InsuranceController.cs",
@@ -1105,7 +1118,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 56,
               "Title": "ConsentController.cs",
               "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Controllers\\ConsentController.cs",
               "RelativeDocumentMoniker": "Cliniquelib-BE\\Controllers\\ConsentController.cs",
@@ -1118,7 +1131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 57,
               "Title": "AuditController.cs",
               "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Controllers\\AuditController.cs",
               "RelativeDocumentMoniker": "Cliniquelib-BE\\Controllers\\AuditController.cs",
@@ -1131,7 +1144,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 58,
               "Title": "PermissionsController.cs",
               "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Controllers\\PermissionsController.cs",
               "RelativeDocumentMoniker": "Cliniquelib-BE\\Controllers\\PermissionsController.cs",
@@ -1231,19 +1244,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-24T17:30:50.638Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 58,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "Cliniquelib-BE\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "Cliniquelib-BE\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAA8wEgAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T16:45:27.634Z",
               "EditorCaption": ""
             },
             {

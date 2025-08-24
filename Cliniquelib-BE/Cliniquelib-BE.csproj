@@ -49,6 +49,28 @@
     <Folder Include="DTOs\Settings\" />
     <Folder Include="DTOs\Teleconsultation\" />
     <Folder Include="DTOs\Users\" />
+    <Folder Include="Validators\Admin\" />
+    <Folder Include="Validators\Appointment\" />
+    <Folder Include="Validators\Audit\" />
+    <Folder Include="Validators\Billing\" />
+    <Folder Include="Validators\Clinics\" />
+    <Folder Include="Validators\Consent\" />
+    <Folder Include="Validators\Documents\" />
+    <Folder Include="Validators\Insurance\" />
+    <Folder Include="Validators\Logs\" />
+    <Folder Include="Validators\Mfa\" />
+    <Folder Include="Validators\Auth\" />
+    <Folder Include="Validators\Notifications\" />
+    <Folder Include="Validators\Organizations\" />
+    <Folder Include="Validators\Patients\" />
+    <Folder Include="Validators\Permissions\" />
+    <Folder Include="Validators\Profile\" />
+    <Folder Include="Validators\Public\" />
+    <Folder Include="Validators\Reports\" />
+    <Folder Include="Validators\Roles\" />
+    <Folder Include="Validators\Settings\" />
+    <Folder Include="Validators\Teleconsultation\" />
+    <Folder Include="Validators\Users\" />
   </ItemGroup>
 
 </Project>
