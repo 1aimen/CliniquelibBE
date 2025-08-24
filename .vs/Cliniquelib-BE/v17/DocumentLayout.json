@@ -1,0 +1,952 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|c:\\users\\sh0ttky\\desktop\\cliniquelib-be\\cliniquelib-be\\middleware\\jwtmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|solutionrelative:cliniquelib-be\\middleware\\jwtmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|c:\\users\\sh0ttky\\desktop\\cliniquelib-be\\cliniquelib-be\\middleware\\logmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|solutionrelative:cliniquelib-be\\middleware\\logmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|c:\\users\\sh0ttky\\desktop\\cliniquelib-be\\cliniquelib-be\\middleware\\permissionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|solutionrelative:cliniquelib-be\\middleware\\permissionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|c:\\users\\sh0ttky\\desktop\\cliniquelib-be\\cliniquelib-be\\middleware\\tenantmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|solutionrelative:cliniquelib-be\\middleware\\tenantmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|c:\\users\\sh0ttky\\desktop\\cliniquelib-be\\cliniquelib-be\\data\\mappings\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|solutionrelative:cliniquelib-be\\data\\mappings\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|c:\\users\\sh0ttky\\desktop\\cliniquelib-be\\cliniquelib-be\\utils\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|solutionrelative:cliniquelib-be\\utils\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|c:\\users\\sh0ttky\\desktop\\cliniquelib-be\\cliniquelib-be\\utils\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|solutionrelative:cliniquelib-be\\utils\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|c:\\users\\sh0ttky\\desktop\\cliniquelib-be\\cliniquelib-be\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|solutionrelative:cliniquelib-be\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|c:\\users\\sh0ttky\\desktop\\cliniquelib-be\\cliniquelib-be\\data\\cliniquedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|solutionrelative:cliniquelib-be\\data\\cliniquedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|c:\\users\\sh0ttky\\desktop\\cliniquelib-be\\cliniquelib-be\\data\\mappings\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|solutionrelative:cliniquelib-be\\data\\mappings\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|c:\\users\\sh0ttky\\desktop\\cliniquelib-be\\cliniquelib-be\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|solutionrelative:cliniquelib-be\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|c:\\users\\sh0ttky\\desktop\\cliniquelib-be\\cliniquelib-be\\data\\mappings\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|solutionrelative:cliniquelib-be\\data\\mappings\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|c:\\users\\sh0ttky\\desktop\\cliniquelib-be\\cliniquelib-be\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|solutionrelative:cliniquelib-be\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|c:\\users\\sh0ttky\\desktop\\cliniquelib-be\\cliniquelib-be\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|solutionrelative:cliniquelib-be\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|c:\\users\\sh0ttky\\desktop\\cliniquelib-be\\cliniquelib-be\\models\\enums\\sex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|solutionrelative:cliniquelib-be\\models\\enums\\sex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|c:\\users\\sh0ttky\\desktop\\cliniquelib-be\\cliniquelib-be\\data\\mappings\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|solutionrelative:cliniquelib-be\\data\\mappings\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|c:\\users\\sh0ttky\\desktop\\cliniquelib-be\\cliniquelib-be\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|solutionrelative:cliniquelib-be\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|c:\\users\\sh0ttky\\desktop\\cliniquelib-be\\cliniquelib-be\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|solutionrelative:cliniquelib-be\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|c:\\users\\sh0ttky\\desktop\\cliniquelib-be\\cliniquelib-be\\models\\enums\\roleenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|solutionrelative:cliniquelib-be\\models\\enums\\roleenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|c:\\users\\sh0ttky\\desktop\\cliniquelib-be\\cliniquelib-be\\models\\organization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|solutionrelative:cliniquelib-be\\models\\organization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|c:\\users\\sh0ttky\\desktop\\cliniquelib-be\\cliniquelib-be\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|solutionrelative:cliniquelib-be\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|c:\\users\\sh0ttky\\desktop\\cliniquelib-be\\cliniquelib-be\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|solutionrelative:cliniquelib-be\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|c:\\users\\sh0ttky\\desktop\\cliniquelib-be\\cliniquelib-be\\models\\enums\\enumhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|solutionrelative:cliniquelib-be\\models\\enums\\enumhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|c:\\users\\sh0ttky\\desktop\\cliniquelib-be\\cliniquelib-be\\models\\enums\\userstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|solutionrelative:cliniquelib-be\\models\\enums\\userstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|c:\\users\\sh0ttky\\desktop\\cliniquelib-be\\cliniquelib-be\\models\\clinic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|solutionrelative:cliniquelib-be\\models\\clinic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|c:\\users\\sh0ttky\\desktop\\cliniquelib-be\\cliniquelib-be\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|solutionrelative:cliniquelib-be\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|c:\\users\\sh0ttky\\desktop\\cliniquelib-be\\cliniquelib-be\\utils\\hashhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|solutionrelative:cliniquelib-be\\utils\\hashhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|c:\\users\\sh0ttky\\desktop\\cliniquelib-be\\cliniquelib-be\\dtos\\auth\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|solutionrelative:cliniquelib-be\\dtos\\auth\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|c:\\users\\sh0ttky\\desktop\\cliniquelib-be\\cliniquelib-be\\dtos\\auth\\signupresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|solutionrelative:cliniquelib-be\\dtos\\auth\\signupresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|c:\\users\\sh0ttky\\desktop\\cliniquelib-be\\cliniquelib-be\\dtos\\auth\\signuprequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|solutionrelative:cliniquelib-be\\dtos\\auth\\signuprequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|c:\\users\\sh0ttky\\desktop\\cliniquelib-be\\cliniquelib-be\\dtos\\auth\\signinresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|solutionrelative:cliniquelib-be\\dtos\\auth\\signinresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|c:\\users\\sh0ttky\\desktop\\cliniquelib-be\\cliniquelib-be\\dtos\\auth\\signinrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|solutionrelative:cliniquelib-be\\dtos\\auth\\signinrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|c:\\users\\sh0ttky\\desktop\\cliniquelib-be\\cliniquelib-be\\dtos\\auth\\refreshtokenresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|solutionrelative:cliniquelib-be\\dtos\\auth\\refreshtokenresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|c:\\users\\sh0ttky\\desktop\\cliniquelib-be\\cliniquelib-be\\dtos\\auth\\refreshtokenrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|solutionrelative:cliniquelib-be\\dtos\\auth\\refreshtokenrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|c:\\users\\sh0ttky\\desktop\\cliniquelib-be\\cliniquelib-be\\models\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|solutionrelative:cliniquelib-be\\models\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|c:\\users\\sh0ttky\\desktop\\cliniquelib-be\\cliniquelib-be\\services\\tenantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|solutionrelative:cliniquelib-be\\services\\tenantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|c:\\users\\sh0ttky\\desktop\\cliniquelib-be\\cliniquelib-be\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|solutionrelative:cliniquelib-be\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|c:\\users\\sh0ttky\\desktop\\cliniquelib-be\\cliniquelib-be\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|solutionrelative:cliniquelib-be\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Middleware\\ErrorHandlerMiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Cliniquelib-BE\\Middleware\\ErrorHandlerMiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|c:\\users\\sh0ttky\\desktop\\cliniquelib-be\\cliniquelib-be\\models\\enums\\events\\sysevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|solutionrelative:cliniquelib-be\\models\\enums\\events\\sysevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|c:\\users\\sh0ttky\\desktop\\cliniquelib-be\\cliniquelib-be\\models\\enums\\events\\apperrors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|solutionrelative:cliniquelib-be\\models\\enums\\events\\apperrors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|c:\\users\\sh0ttky\\desktop\\cliniquelib-be\\cliniquelib-be\\models\\enums\\events\\appevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|solutionrelative:cliniquelib-be\\models\\enums\\events\\appevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|c:\\users\\sh0ttky\\desktop\\cliniquelib-be\\cliniquelib-be\\models\\enums\\teleconsultationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|solutionrelative:cliniquelib-be\\models\\enums\\teleconsultationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|c:\\users\\sh0ttky\\desktop\\cliniquelib-be\\cliniquelib-be\\models\\enums\\invoicestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|solutionrelative:cliniquelib-be\\models\\enums\\invoicestatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|c:\\users\\sh0ttky\\desktop\\cliniquelib-be\\cliniquelib-be\\models\\enums\\notifcationchannel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|solutionrelative:cliniquelib-be\\models\\enums\\notifcationchannel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|c:\\users\\sh0ttky\\desktop\\cliniquelib-be\\cliniquelib-be\\models\\enums\\notificationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|solutionrelative:cliniquelib-be\\models\\enums\\notificationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|c:\\users\\sh0ttky\\desktop\\cliniquelib-be\\cliniquelib-be\\models\\enums\\filetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|solutionrelative:cliniquelib-be\\models\\enums\\filetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|c:\\users\\sh0ttky\\desktop\\cliniquelib-be\\cliniquelib-be\\models\\enums\\documenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|solutionrelative:cliniquelib-be\\models\\enums\\documenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|c:\\users\\sh0ttky\\desktop\\cliniquelib-be\\cliniquelib-be\\models\\enums\\appointmenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|solutionrelative:cliniquelib-be\\models\\enums\\appointmenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|c:\\users\\sh0ttky\\desktop\\cliniquelib-be\\cliniquelib-be\\models\\enums\\appointmentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|solutionrelative:cliniquelib-be\\models\\enums\\appointmentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|c:\\users\\sh0ttky\\desktop\\cliniquelib-be\\cliniquelib-be\\models\\enums\\paymentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|solutionrelative:cliniquelib-be\\models\\enums\\paymentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|c:\\users\\sh0ttky\\desktop\\cliniquelib-be\\cliniquelib-be\\cliniquelib-be.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|solutionrelative:cliniquelib-be\\cliniquelib-be.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|c:\\users\\sh0ttky\\desktop\\cliniquelib-be\\cliniquelib-be\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|solutionrelative:cliniquelib-be\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|c:\\users\\sh0ttky\\desktop\\cliniquelib-be\\cliniquelib-be\\models\\enums\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8EDCFBE-86A6-4DB6-9EBE-46C206286E25}|Cliniquelib-BE\\Cliniquelib-BE.csproj|solutionrelative:cliniquelib-be\\models\\enums\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Data\\Mappings\\UserRole.cs",
+              "RelativeDocumentMoniker": "Cliniquelib-BE\\Data\\Mappings\\UserRole.cs",
+              "ToolTip": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Data\\Mappings\\UserRole.cs",
+              "RelativeToolTip": "Cliniquelib-BE\\Data\\Mappings\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T06:42:11.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Cliniquelib-BE\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Services\\AuthService.cs",
+              "RelativeToolTip": "Cliniquelib-BE\\Services\\AuthService.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAnwKkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T18:04:14.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Program.cs",
+              "RelativeDocumentMoniker": "Cliniquelib-BE\\Program.cs",
+              "ToolTip": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Program.cs",
+              "RelativeToolTip": "Cliniquelib-BE\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T19:21:28.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserStatus.cs",
+              "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Models\\Enums\\UserStatus.cs",
+              "RelativeDocumentMoniker": "Cliniquelib-BE\\Models\\Enums\\UserStatus.cs",
+              "ToolTip": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Models\\Enums\\UserStatus.cs",
+              "RelativeToolTip": "Cliniquelib-BE\\Models\\Enums\\UserStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T21:15:30.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JwtOptions.cs",
+              "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Utils\\JwtOptions.cs",
+              "RelativeDocumentMoniker": "Cliniquelib-BE\\Utils\\JwtOptions.cs",
+              "ToolTip": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Utils\\JwtOptions.cs",
+              "RelativeToolTip": "Cliniquelib-BE\\Utils\\JwtOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T04:25:02.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JwtHelper.cs",
+              "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Utils\\JwtHelper.cs",
+              "RelativeDocumentMoniker": "Cliniquelib-BE\\Utils\\JwtHelper.cs",
+              "ToolTip": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Utils\\JwtHelper.cs",
+              "RelativeToolTip": "Cliniquelib-BE\\Utils\\JwtHelper.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAmwBQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T02:55:09.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TenantMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Middleware\\TenantMiddleware.cs",
+              "RelativeDocumentMoniker": "Cliniquelib-BE\\Middleware\\TenantMiddleware.cs",
+              "ToolTip": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Middleware\\TenantMiddleware.cs",
+              "RelativeToolTip": "Cliniquelib-BE\\Middleware\\TenantMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T03:02:44.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PermissionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Middleware\\PermissionMiddleware.cs",
+              "RelativeDocumentMoniker": "Cliniquelib-BE\\Middleware\\PermissionMiddleware.cs",
+              "ToolTip": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Middleware\\PermissionMiddleware.cs",
+              "RelativeToolTip": "Cliniquelib-BE\\Middleware\\PermissionMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T03:01:50.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LogMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Middleware\\LogMiddleware.cs",
+              "RelativeDocumentMoniker": "Cliniquelib-BE\\Middleware\\LogMiddleware.cs",
+              "ToolTip": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Middleware\\LogMiddleware.cs",
+              "RelativeToolTip": "Cliniquelib-BE\\Middleware\\LogMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T03:02:10.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JwtMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Middleware\\JwtMiddleware.cs",
+              "RelativeDocumentMoniker": "Cliniquelib-BE\\Middleware\\JwtMiddleware.cs",
+              "ToolTip": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Middleware\\JwtMiddleware.cs",
+              "RelativeToolTip": "Cliniquelib-BE\\Middleware\\JwtMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T03:01:40.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CliniqueDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Data\\CliniqueDbContext.cs",
+              "RelativeDocumentMoniker": "Cliniquelib-BE\\Data\\CliniqueDbContext.cs",
+              "ToolTip": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Data\\CliniqueDbContext.cs",
+              "RelativeToolTip": "Cliniquelib-BE\\Data\\CliniqueDbContext.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAwAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T19:21:09.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Data\\Mappings\\User.cs",
+              "RelativeDocumentMoniker": "Cliniquelib-BE\\Data\\Mappings\\User.cs",
+              "ToolTip": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Data\\Mappings\\User.cs",
+              "RelativeToolTip": "Cliniquelib-BE\\Data\\Mappings\\User.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAmwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T04:52:05.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Sex.cs",
+              "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Models\\Enums\\Sex.cs",
+              "RelativeDocumentMoniker": "Cliniquelib-BE\\Models\\Enums\\Sex.cs",
+              "ToolTip": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Models\\Enums\\Sex.cs",
+              "RelativeToolTip": "Cliniquelib-BE\\Models\\Enums\\Sex.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T20:56:07.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Models\\UserRole.cs",
+              "RelativeDocumentMoniker": "Cliniquelib-BE\\Models\\UserRole.cs",
+              "ToolTip": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Models\\UserRole.cs",
+              "RelativeToolTip": "Cliniquelib-BE\\Models\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T18:03:08.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Cliniquelib-BE\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Models\\User.cs",
+              "RelativeToolTip": "Cliniquelib-BE\\Models\\User.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAswDEAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T20:40:07.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Data\\Mappings\\Roles.cs",
+              "RelativeDocumentMoniker": "Cliniquelib-BE\\Data\\Mappings\\Roles.cs",
+              "ToolTip": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Data\\Mappings\\Roles.cs",
+              "RelativeToolTip": "Cliniquelib-BE\\Data\\Mappings\\Roles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T06:32:09.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Data\\Mappings\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "Cliniquelib-BE\\Data\\Mappings\\RefreshToken.cs",
+              "ToolTip": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Data\\Mappings\\RefreshToken.cs",
+              "RelativeToolTip": "Cliniquelib-BE\\Data\\Mappings\\RefreshToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T07:04:45.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Cliniquelib-BE\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Cliniquelib-BE\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAwwEUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T16:45:27.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "Cliniquelib-BE\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Models\\Role.cs",
+              "RelativeToolTip": "Cliniquelib-BE\\Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T04:20:29.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\appsettings.json",
+              "RelativeDocumentMoniker": "Cliniquelib-BE\\appsettings.json",
+              "ToolTip": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\appsettings.json",
+              "RelativeToolTip": "Cliniquelib-BE\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-18T19:21:37.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RoleEnum.cs",
+              "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Models\\Enums\\RoleEnum.cs",
+              "RelativeDocumentMoniker": "Cliniquelib-BE\\Models\\Enums\\RoleEnum.cs",
+              "ToolTip": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Models\\Enums\\RoleEnum.cs",
+              "RelativeToolTip": "Cliniquelib-BE\\Models\\Enums\\RoleEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T01:59:44.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Organization.cs",
+              "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Models\\Organization.cs",
+              "RelativeDocumentMoniker": "Cliniquelib-BE\\Models\\Organization.cs",
+              "ToolTip": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Models\\Organization.cs",
+              "RelativeToolTip": "Cliniquelib-BE\\Models\\Organization.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T20:58:34.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Cliniquelib-BE\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "Cliniquelib-BE\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T03:15:40.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EnumHelper.cs",
+              "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Models\\Enums\\EnumHelper.cs",
+              "RelativeDocumentMoniker": "Cliniquelib-BE\\Models\\Enums\\EnumHelper.cs",
+              "ToolTip": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Models\\Enums\\EnumHelper.cs",
+              "RelativeToolTip": "Cliniquelib-BE\\Models\\Enums\\EnumHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T05:30:55.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SignupRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\DTOs\\Auth\\SignupRequestDto.cs",
+              "RelativeDocumentMoniker": "Cliniquelib-BE\\DTOs\\Auth\\SignupRequestDto.cs",
+              "ToolTip": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\DTOs\\Auth\\SignupRequestDto.cs",
+              "RelativeToolTip": "Cliniquelib-BE\\DTOs\\Auth\\SignupRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T03:06:16.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "Cliniquelib-BE\\Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Models\\Patient.cs",
+              "RelativeToolTip": "Cliniquelib-BE\\Models\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T19:20:33.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Clinic.cs",
+              "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Models\\Clinic.cs",
+              "RelativeDocumentMoniker": "Cliniquelib-BE\\Models\\Clinic.cs",
+              "ToolTip": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Models\\Clinic.cs",
+              "RelativeToolTip": "Cliniquelib-BE\\Models\\Clinic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T20:58:52.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "HashHelper.cs",
+              "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Utils\\HashHelper.cs",
+              "RelativeDocumentMoniker": "Cliniquelib-BE\\Utils\\HashHelper.cs",
+              "ToolTip": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Utils\\HashHelper.cs",
+              "RelativeToolTip": "Cliniquelib-BE\\Utils\\HashHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T02:54:54.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\DTOs\\Auth\\UserDto.cs",
+              "RelativeDocumentMoniker": "Cliniquelib-BE\\DTOs\\Auth\\UserDto.cs",
+              "ToolTip": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\DTOs\\Auth\\UserDto.cs",
+              "RelativeToolTip": "Cliniquelib-BE\\DTOs\\Auth\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T02:01:30.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SignupResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\DTOs\\Auth\\SignupResponseDto.cs",
+              "RelativeDocumentMoniker": "Cliniquelib-BE\\DTOs\\Auth\\SignupResponseDto.cs",
+              "ToolTip": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\DTOs\\Auth\\SignupResponseDto.cs",
+              "RelativeToolTip": "Cliniquelib-BE\\DTOs\\Auth\\SignupResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T03:06:48.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SigninResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\DTOs\\Auth\\SigninResponseDto.cs",
+              "RelativeDocumentMoniker": "Cliniquelib-BE\\DTOs\\Auth\\SigninResponseDto.cs",
+              "ToolTip": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\DTOs\\Auth\\SigninResponseDto.cs",
+              "RelativeToolTip": "Cliniquelib-BE\\DTOs\\Auth\\SigninResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T03:06:38.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "SigninRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\DTOs\\Auth\\SigninRequestDto.cs",
+              "RelativeDocumentMoniker": "Cliniquelib-BE\\DTOs\\Auth\\SigninRequestDto.cs",
+              "ToolTip": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\DTOs\\Auth\\SigninRequestDto.cs",
+              "RelativeToolTip": "Cliniquelib-BE\\DTOs\\Auth\\SigninRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T03:06:31.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "RefreshTokenResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\DTOs\\Auth\\RefreshTokenResponseDto.cs",
+              "RelativeDocumentMoniker": "Cliniquelib-BE\\DTOs\\Auth\\RefreshTokenResponseDto.cs",
+              "ToolTip": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\DTOs\\Auth\\RefreshTokenResponseDto.cs",
+              "RelativeToolTip": "Cliniquelib-BE\\DTOs\\Auth\\RefreshTokenResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T03:07:53.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "RefreshTokenRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\DTOs\\Auth\\RefreshTokenRequestDto.cs",
+              "RelativeDocumentMoniker": "Cliniquelib-BE\\DTOs\\Auth\\RefreshTokenRequestDto.cs",
+              "ToolTip": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\DTOs\\Auth\\RefreshTokenRequestDto.cs",
+              "RelativeToolTip": "Cliniquelib-BE\\DTOs\\Auth\\RefreshTokenRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T03:07:43.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Models\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "Cliniquelib-BE\\Models\\RefreshToken.cs",
+              "ToolTip": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Models\\RefreshToken.cs",
+              "RelativeToolTip": "Cliniquelib-BE\\Models\\RefreshToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T03:45:22.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "TenantService.cs",
+              "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Services\\TenantService.cs",
+              "RelativeDocumentMoniker": "Cliniquelib-BE\\Services\\TenantService.cs",
+              "ToolTip": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Services\\TenantService.cs",
+              "RelativeToolTip": "Cliniquelib-BE\\Services\\TenantService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T18:05:07.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "Cliniquelib-BE\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Services\\TokenService.cs",
+              "RelativeToolTip": "Cliniquelib-BE\\Services\\TokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T18:04:30.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Cliniquelib-BE\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Cliniquelib-BE\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-24T03:45:54.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ErrorHandlerMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Middleware\\ErrorHandlerMiddleware.cs",
+              "RelativeDocumentMoniker": "Cliniquelib-BE\\Middleware\\ErrorHandlerMiddleware.cs",
+              "ToolTip": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Middleware\\ErrorHandlerMiddleware.cs",
+              "RelativeToolTip": "Cliniquelib-BE\\Middleware\\ErrorHandlerMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T03:02:02.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "SysEvents.cs",
+              "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Models\\Enums\\Events\\SysEvents.cs",
+              "RelativeDocumentMoniker": "Cliniquelib-BE\\Models\\Enums\\Events\\SysEvents.cs",
+              "ToolTip": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Models\\Enums\\Events\\SysEvents.cs",
+              "RelativeToolTip": "Cliniquelib-BE\\Models\\Enums\\Events\\SysEvents.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T02:00:19.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AppErrors.cs",
+              "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Models\\Enums\\Events\\AppErrors.cs",
+              "RelativeDocumentMoniker": "Cliniquelib-BE\\Models\\Enums\\Events\\AppErrors.cs",
+              "ToolTip": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Models\\Enums\\Events\\AppErrors.cs",
+              "RelativeToolTip": "Cliniquelib-BE\\Models\\Enums\\Events\\AppErrors.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T02:00:18.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AppEvents.cs",
+              "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Models\\Enums\\Events\\AppEvents.cs",
+              "RelativeDocumentMoniker": "Cliniquelib-BE\\Models\\Enums\\Events\\AppEvents.cs",
+              "ToolTip": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Models\\Enums\\Events\\AppEvents.cs",
+              "RelativeToolTip": "Cliniquelib-BE\\Models\\Enums\\Events\\AppEvents.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T02:00:16.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "InvoiceStatus.cs",
+              "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Models\\Enums\\InvoiceStatus.cs",
+              "RelativeDocumentMoniker": "Cliniquelib-BE\\Models\\Enums\\InvoiceStatus.cs",
+              "ToolTip": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Models\\Enums\\InvoiceStatus.cs",
+              "RelativeToolTip": "Cliniquelib-BE\\Models\\Enums\\InvoiceStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA6wAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T20:57:46.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "NotifcationChannel.cs",
+              "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Models\\Enums\\NotifcationChannel.cs",
+              "RelativeDocumentMoniker": "Cliniquelib-BE\\Models\\Enums\\NotifcationChannel.cs",
+              "ToolTip": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Models\\Enums\\NotifcationChannel.cs",
+              "RelativeToolTip": "Cliniquelib-BE\\Models\\Enums\\NotifcationChannel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA6wAYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T20:53:43.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "TeleconsultationStatus.cs",
+              "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Models\\Enums\\TeleconsultationStatus.cs",
+              "RelativeDocumentMoniker": "Cliniquelib-BE\\Models\\Enums\\TeleconsultationStatus.cs",
+              "ToolTip": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Models\\Enums\\TeleconsultationStatus.cs",
+              "RelativeToolTip": "Cliniquelib-BE\\Models\\Enums\\TeleconsultationStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T20:54:06.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "NotificationStatus.cs",
+              "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Models\\Enums\\NotificationStatus.cs",
+              "RelativeDocumentMoniker": "Cliniquelib-BE\\Models\\Enums\\NotificationStatus.cs",
+              "ToolTip": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Models\\Enums\\NotificationStatus.cs",
+              "RelativeToolTip": "Cliniquelib-BE\\Models\\Enums\\NotificationStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T20:56:37.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "FileType.cs",
+              "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Models\\Enums\\FileType.cs",
+              "RelativeDocumentMoniker": "Cliniquelib-BE\\Models\\Enums\\FileType.cs",
+              "ToolTip": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Models\\Enums\\FileType.cs",
+              "RelativeToolTip": "Cliniquelib-BE\\Models\\Enums\\FileType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA6wAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T21:22:13.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "DocumentType.cs",
+              "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Models\\Enums\\DocumentType.cs",
+              "RelativeDocumentMoniker": "Cliniquelib-BE\\Models\\Enums\\DocumentType.cs",
+              "ToolTip": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Models\\Enums\\DocumentType.cs",
+              "RelativeToolTip": "Cliniquelib-BE\\Models\\Enums\\DocumentType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T21:22:44.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "AppointmentType.cs",
+              "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Models\\Enums\\AppointmentType.cs",
+              "RelativeDocumentMoniker": "Cliniquelib-BE\\Models\\Enums\\AppointmentType.cs",
+              "ToolTip": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Models\\Enums\\AppointmentType.cs",
+              "RelativeToolTip": "Cliniquelib-BE\\Models\\Enums\\AppointmentType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T21:18:52.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "AppointmentStatus.cs",
+              "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Models\\Enums\\AppointmentStatus.cs",
+              "RelativeDocumentMoniker": "Cliniquelib-BE\\Models\\Enums\\AppointmentStatus.cs",
+              "ToolTip": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Models\\Enums\\AppointmentStatus.cs",
+              "RelativeToolTip": "Cliniquelib-BE\\Models\\Enums\\AppointmentStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T20:55:33.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "PaymentMethod.cs",
+              "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Models\\Enums\\PaymentMethod.cs",
+              "RelativeDocumentMoniker": "Cliniquelib-BE\\Models\\Enums\\PaymentMethod.cs",
+              "ToolTip": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Models\\Enums\\PaymentMethod.cs",
+              "RelativeToolTip": "Cliniquelib-BE\\Models\\Enums\\PaymentMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T21:20:11.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "PaymentStatus.cs",
+              "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Models\\Enums\\PaymentStatus.cs",
+              "RelativeDocumentMoniker": "Cliniquelib-BE\\Models\\Enums\\PaymentStatus.cs",
+              "ToolTip": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Models\\Enums\\PaymentStatus.cs",
+              "RelativeToolTip": "Cliniquelib-BE\\Models\\Enums\\PaymentStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T20:58:00.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Cliniquelib-BE\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\appsettings.Development.json",
+              "RelativeToolTip": "Cliniquelib-BE\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-18T19:22:55.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Cliniquelib-BE.http",
+              "DocumentMoniker": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Cliniquelib-BE.http",
+              "RelativeDocumentMoniker": "Cliniquelib-BE\\Cliniquelib-BE.http",
+              "ToolTip": "C:\\Users\\sh0ttky\\Desktop\\Cliniquelib-BE\\Cliniquelib-BE\\Cliniquelib-BE.http",
+              "RelativeToolTip": "Cliniquelib-BE\\Cliniquelib-BE.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-08-18T19:23:54.088Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 172,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+@Cliniquelib_BE_HostAddress = http://localhost:5198
+
+### Get all patients
+GET {{Cliniquelib_BE_HostAddress}}/api/patients
+Accept: application/json
+
+### Create a new patient
+POST {{Cliniquelib_BE_HostAddress}}/api/patients
+Content-Type: application/json
+
+{
+  "fullName": "John Doe",
+  "email": "john.doe@example.com",
+  "phone": "1234567890",
+  "dateOfBirth": "1990-05-12"
+}
+
+### Get a patient by id
+GET {{Cliniquelib_BE_HostAddress}}/api/patients/1
+Accept: application/json
+
+### Update a patient
+PUT {{Cliniquelib_BE_HostAddress}}/api/patients/1
+Content-Type: application/json
+
+{
+  "id": 1,
+  "fullName": "John Doe Updated",
+  "email": "john.updated@example.com",
+  "phone": "0987654321",
+  "dateOfBirth": "1990-05-12"
+}
+
+### Delete a patient
+DELETE {{Cliniquelib_BE_HostAddress}}/api/patients/1
