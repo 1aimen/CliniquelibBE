@@ -1,4 +1,7 @@
-public enum DocumentType
+namespace Cliniquelib_BE.Models.Enums
+
+{
+    public enum DocumentType
 {
     DischargeSummary,
     ReferralLetter,
@@ -7,4 +10,5 @@ public enum DocumentType
     MedicalReport,
     LabReport,
     ImagingReport
+}
 }

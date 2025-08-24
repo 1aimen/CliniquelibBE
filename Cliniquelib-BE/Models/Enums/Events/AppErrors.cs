@@ -1,4 +1,4 @@
-﻿namespace Cliniquelib_BE.Models.Enums
+﻿namespace Cliniquelib_BE.Models.Enums.Events
 {
     public enum AppErrors
     {

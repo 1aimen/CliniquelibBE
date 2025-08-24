@@ -70,6 +70,8 @@ namespace Cliniquelib_BE.Services
         {
             if (await _context.Users.AnyAsync(u => u.Email == request.Email))
                 throw new Exception("Email already registered");
+            if (await _context.Users.AnyAsync(u => u.Phone == request.Phone))
+                throw new Exception("Phone Number already used");
 
             // Create user
             var user = new Models.User

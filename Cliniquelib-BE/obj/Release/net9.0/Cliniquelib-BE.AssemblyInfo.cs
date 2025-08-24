@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cliniquelib-BE")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ed06b188c8754504641c045c761827a26c11f09")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cliniquelib-BE")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cliniquelib-BE")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

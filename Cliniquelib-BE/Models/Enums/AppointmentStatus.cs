@@ -1,4 +1,7 @@
-public enum AppointmentStatus
+namespace Cliniquelib_BE.Models.Enums
+
+{
+    public enum AppointmentStatus
 {
     Reserved,
     Confirmed,
@@ -6,4 +9,5 @@ public enum AppointmentStatus
     Completed,
     NoShow,
     InProgress
+}
 }

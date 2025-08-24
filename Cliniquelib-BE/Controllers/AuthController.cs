@@ -88,5 +88,8 @@ namespace Cliniquelib_BE.Controllers
                 return BadRequest(new { message = ex.Message });
             }
         }
+
+        //[HttpPost("me")]
+        //public async Task <IActionResult> 
     }
 }

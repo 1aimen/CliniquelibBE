@@ -1,4 +1,7 @@
-public enum InvoiceStatus
+namespace Cliniquelib_BE.Models.Enums
+
+{
+    public enum InvoiceStatus
 {
     Draft,
     Issued,
@@ -7,4 +10,5 @@ public enum InvoiceStatus
     Partial,
     Overdue,
     Refunded
+}
 }

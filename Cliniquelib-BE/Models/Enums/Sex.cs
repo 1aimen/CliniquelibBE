@@ -1,11 +1,9 @@
-namespace Cliniquelib_BE.Models
+namespace Cliniquelib_BE.Models.Enums
 {
     public enum Sex
     {
         Male,
         Female,
-        Intersex,
-        Unknown,
         Undisclosed
     }
 }

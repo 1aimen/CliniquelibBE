@@ -27,4 +27,28 @@
     <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="8.14.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="DTOs\Admin\" />
+    <Folder Include="DTOs\Mfa\" />
+    <Folder Include="DTOs\Insurance\" />
+    <Folder Include="DTOs\Documents\" />
+    <Folder Include="DTOs\Consent\" />
+    <Folder Include="DTOs\Clinics\" />
+    <Folder Include="DTOs\Billing\" />
+    <Folder Include="DTOs\Audit\" />
+    <Folder Include="DTOs\Appointment\" />
+    <Folder Include="DTOs\Logs\" />
+    <Folder Include="DTOs\Notifications\" />
+    <Folder Include="DTOs\Organizations\" />
+    <Folder Include="DTOs\Patients\" />
+    <Folder Include="DTOs\Permissions\" />
+    <Folder Include="DTOs\Profile\" />
+    <Folder Include="DTOs\Public\" />
+    <Folder Include="DTOs\Reports\" />
+    <Folder Include="DTOs\Roles\" />
+    <Folder Include="DTOs\Settings\" />
+    <Folder Include="DTOs\Teleconsultation\" />
+    <Folder Include="DTOs\Users\" />
+  </ItemGroup>
+
 </Project>

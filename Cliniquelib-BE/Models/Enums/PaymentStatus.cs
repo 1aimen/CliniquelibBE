@@ -1,8 +1,15 @@
-public enum PaymentStatus
+namespace Cliniquelib_BE.Models.Enums
+
 {
-    Pending,
-    Authorized,
-    Succeeded,
-    Failed,
-    Refunded
+
+    public enum PaymentStatus
+    {
+        Pending,
+        Authorized,
+        Succeeded,
+        Failed,
+        Refunded
+    }
+
 }
+
