@@ -3,11 +3,14 @@
     "",
     "\\Cliniquelib-BE",
     "\\Cliniquelib-BE\\Assets",
-    "\\Cliniquelib-BE\\Models",
+    "\\Cliniquelib-BE\\Assets\\i18n",
+    "\\Cliniquelib-BE\\Assets\\Images",
     "\\Cliniquelib-BE\\Properties",
     "\\Cliniquelib-BE\\Scripts",
-    "\\Cliniquelib-BE\\Utils"
+    "\\Cliniquelib-BE\\Utils",
+    "\\Cliniquelib-BE\\Validators",
+    "\\Cliniquelib-BE\\Validators\\Admin"
   ],
-  "SelectedNode": "\\Cliniquelib-BE\\Models\\Patient.cs",
+  "SelectedNode": "\\Cliniquelib-BE\\Cliniquelib-BE.csproj",
   "PreviewInSolutionExplorer": false
 }
