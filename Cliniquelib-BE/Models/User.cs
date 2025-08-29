@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+using Cliniquelib_BE.Models.Enums;
 
 namespace Cliniquelib_BE.Models
 {
