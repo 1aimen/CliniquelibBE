@@ -5,6 +5,8 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Npgsql;
+using Cliniquelib_BE.Models.Enums;
+
 
 public class CliniqueDbContext : DbContext
 {

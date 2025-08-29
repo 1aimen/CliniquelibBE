@@ -4,6 +4,8 @@ using Cliniquelib_BE.Helpers;
 using Cliniquelib_BE.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
+using Cliniquelib_BE.Models.Enums;
+
 
 namespace Cliniquelib_BE.Services
 {
