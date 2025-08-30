@@ -30,7 +30,6 @@ namespace Cliniquelib_BE.Configurations
             builder.Property(u => u.CreatedAt).HasColumnName("created_at");
             builder.Property(u => u.UpdatedAt).HasColumnName("updated_at");
 
-
             builder.Property(u => u.Sex)
                    .HasColumnName("sex")
                    .HasColumnType("sex_at_birth") // PostgreSQL enum type
