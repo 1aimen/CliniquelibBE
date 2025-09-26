@@ -5,20 +5,10 @@
     "version": "1.0"
   },
   "paths": {
-    "/api/v{version}/Auth/signin": {
+    "/api/v1/auth/signin": {
       "post": {
         "tags": [
           "Auth"
-        ],
-        "parameters": [
-          {
-            "name": "version",
-            "in": "path",
-            "required": true,
-            "schema": {
-              "type": "string"
-            }
-          }
         ],
         "requestBody": {
           "content": {
@@ -46,20 +36,10 @@
         }
       }
     },
-    "/api/v{version}/Auth/signup": {
+    "/api/v1/auth/signup": {
       "post": {
         "tags": [
           "Auth"
-        ],
-        "parameters": [
-          {
-            "name": "version",
-            "in": "path",
-            "required": true,
-            "schema": {
-              "type": "string"
-            }
-          }
         ],
         "requestBody": {
           "content": {
@@ -87,20 +67,10 @@
         }
       }
     },
-    "/api/v{version}/Auth/refresh": {
+    "/api/v1/auth/refresh": {
       "post": {
         "tags": [
           "Auth"
-        ],
-        "parameters": [
-          {
-            "name": "version",
-            "in": "path",
-            "required": true,
-            "schema": {
-              "type": "string"
-            }
-          }
         ],
         "requestBody": {
           "content": {
@@ -128,20 +98,10 @@
         }
       }
     },
-    "/api/v{version}/Auth/signout": {
+    "/api/v1/auth/signout": {
       "post": {
         "tags": [
           "Auth"
-        ],
-        "parameters": [
-          {
-            "name": "version",
-            "in": "path",
-            "required": true,
-            "schema": {
-              "type": "string"
-            }
-          }
         ],
         "requestBody": {
           "content": {

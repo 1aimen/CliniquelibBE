@@ -2,7 +2,7 @@
   {
     "ContainingType": "Cliniquelib_BE.Controllers.AuthController",
     "Method": "RefreshToken",
-    "RelativePath": "api/v{version}/Auth/refresh",
+    "RelativePath": "api/v1/auth/refresh",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -10,11 +10,6 @@
       {
         "Name": "request",
         "Type": "Cliniquelib_BE.DTOs.Auth.RefreshTokenRequestDto",
-        "IsRequired": true
-      },
-      {
-        "Name": "version",
-        "Type": "",
         "IsRequired": true
       }
     ],
@@ -23,7 +18,7 @@
   {
     "ContainingType": "Cliniquelib_BE.Controllers.AuthController",
     "Method": "SignIn",
-    "RelativePath": "api/v{version}/Auth/signin",
+    "RelativePath": "api/v1/auth/signin",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -32,11 +27,6 @@
         "Name": "request",
         "Type": "Cliniquelib_BE.DTOs.Auth.SigninRequestDto",
         "IsRequired": true
-      },
-      {
-        "Name": "version",
-        "Type": "",
-        "IsRequired": true
       }
     ],
     "ReturnTypes": []
@@ -44,7 +34,7 @@
   {
     "ContainingType": "Cliniquelib_BE.Controllers.AuthController",
     "Method": "SignOut",
-    "RelativePath": "api/v{version}/Auth/signout",
+    "RelativePath": "api/v1/auth/signout",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -53,11 +43,6 @@
         "Name": "request",
         "Type": "Cliniquelib_BE.DTOs.Auth.RefreshTokenRequestDto",
         "IsRequired": true
-      },
-      {
-        "Name": "version",
-        "Type": "",
-        "IsRequired": true
       }
     ],
     "ReturnTypes": []
@@ -65,7 +50,7 @@
   {
     "ContainingType": "Cliniquelib_BE.Controllers.AuthController",
     "Method": "SignUp",
-    "RelativePath": "api/v{version}/Auth/signup",
+    "RelativePath": "api/v1/auth/signup",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -73,11 +58,6 @@
       {
         "Name": "request",
         "Type": "Cliniquelib_BE.DTOs.Auth.SignupRequestDto",
-        "IsRequired": true
-      },
-      {
-        "Name": "version",
-        "Type": "",
         "IsRequired": true
       }
     ],
