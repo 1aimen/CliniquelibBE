@@ -309,3 +309,8 @@ C:\Users\user\Desktop\mywork\CliniquelibBE\Cliniquelib-BE\obj\Debug\net9.0\stati
 C:\Users\user\Desktop\mywork\CliniquelibBE\Cliniquelib-BE\obj\Debug\net9.0\Clinique.A1E7D37B.Up2Date
 C:\Users\user\Desktop\mywork\CliniquelibBE\Cliniquelib-BE\obj\Debug\net9.0\Cliniquelib-BE.genruntimeconfig.cache
 C:\Users\user\Desktop\mywork\CliniquelibBE\Cliniquelib-BE\obj\Debug\net9.0\ref\Cliniquelib-BE.dll
+C:\Users\sh0ttky\Desktop\Cliniquelib-BE\Cliniquelib-BE\obj\Debug\net9.0\Cliniquelib-BE.sourcelink.json
+C:\Users\sh0ttky\Desktop\Cliniquelib-BE\Cliniquelib-BE\bin\Debug\net9.0\Assets\i18n\ar.json
+C:\Users\sh0ttky\Desktop\Cliniquelib-BE\Cliniquelib-BE\bin\Debug\net9.0\Assets\i18n\en.json
+C:\Users\sh0ttky\Desktop\Cliniquelib-BE\Cliniquelib-BE\bin\Debug\net9.0\Assets\i18n\fr.json
+C:\Users\sh0ttky\Desktop\Cliniquelib-BE\Cliniquelib-BE\bin\Debug\net9.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll

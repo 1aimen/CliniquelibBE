@@ -6,7 +6,7 @@ namespace Cliniquelib_BE.Controllers
 {
     [ApiController]
     [ApiVersion("1.0")]
-    [Route("api/v{version:apiVersion}/[controller]")]
+    [Route("api/v{version:apiVersion}/auth")]
     public class AuthController : ControllerBase
     {
         private readonly IAuthService _authService;
@@ -90,6 +90,6 @@ namespace Cliniquelib_BE.Controllers
         }
 
         //[HttpPost("me")]
-        //public async Task <IActionResult> 
+    //    public async Task<IActionResult> GetUserIdByRefreshTokenAsync([FromBody] )
     }
 }
